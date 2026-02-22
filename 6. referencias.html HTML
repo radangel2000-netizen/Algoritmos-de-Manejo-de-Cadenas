@@ -1,0 +1,16 @@
+<main>
+    <h1>Referencias bibliográficas</h1>
+    <ul>
+        <li><a href="https://aulasvirtuales.udistrital.edu.co/pluginfile.php/50665/mod_resource/content/2/Cadena%20de%20caracteres.pdf" target="_blank">Cadenas de Caracteres – Universidad Distrital</a></li>
+        <li><a href="https://es.khanacademy.org/computing/ap-computer-science-principles/programming-101/strings/a/string-concatenation" target="_blank">Operaciones con cadenas – Khan Academy</a></li>
+        <li><a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String" target="_blank">String – MDN Web Docs (JavaScript)</a></li>
+        <li><a href="https://docs.python.org/es/3/library/stdtypes.html#text-sequence-type-str" target="_blank">Cadenas en Python – Documentación oficial</a></li>
+        <li><a href="https://learn.microsoft.com/es-es/dotnet/csharp/programming-guide/strings/" target="_blank">Cadenas en C# – Microsoft Learn</a></li>
+        <li><a href="https://www.php.net/manual/es/language.types.string.php" target="_blank">Cadenas en PHP – Manual oficial</a></li>
+        <li><a href="https://www.luisllamas.es/cpp-como-usar-std-string/" target="_blank">std::string en C++ – Luis Llamas</a></li>
+        <li><a href="https://medium.com/@franciscoernesto0404/algoritmos-de-manejos-de-strings-975df1fc1326" target="_blank">Algoritmos de manejo de strings – Medium</a></li>
+        <li><a href="https://es.wikipedia.org/wiki/Algoritmo_de_b%C3%BAsqueda_de_cadenas_Boyer-Moore" target="_blank">Boyer-Moore – Wikipedia</a></li>
+    </ul>
+    
+    <p style="text-align:right; font-style:italic;">Creado por: [Nombre del integrante]</p>
+</main>
