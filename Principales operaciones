@@ -1,0 +1,16 @@
+<main>
+    <h1>Principales operaciones de manejo de cadenas</h1>
+    <table border="1" cellpadding="10" style="width:100%; border-collapse:collapse;">
+        <tr><th>Operación</th><th>Descripción</th><th>Ejemplo</th></tr>
+        <tr><td>Longitud</td><td>Devuelve cantidad de caracteres</td><td><code>len("Hola") → 4</code></td></tr>
+        <tr><td>Concatenación</td><td>Unir dos o más cadenas</td><td><code>"Hola" + " mundo" → "Hola mundo"</code></td></tr>
+        <tr><td>Subcadena (substring)</td><td>Extraer parte de la cadena</td><td><code>"Hola mundo".substring(0,4) → "Hola"</code></td></tr>
+        <tr><td>Búsqueda</td><td>Buscar posición de un patrón</td><td><code>"Hola".indexOf("o") → 1</code></td></tr>
+        <tr><td>Reemplazo</td><td>Sustituir texto</td><td><code>"Hola mundo".replace("mundo","Python")</code></td></tr>
+        <tr><td>División (split)</td><td>Separar por delimitador</td><td><code>"a,b,c".split(",") → ["a","b","c"]</code></td></tr>
+        <tr><td>Mayúsculas / Minúsculas</td><td>Convertir caso</td><td><code>"hola".toUpperCase() → "HOLA"</code></td></tr>
+        <tr><td>Eliminar espacios</td><td>Trim</td><td><code>"  hola  ".trim() → "hola"</code></td></tr>
+    </table>
+    
+    <p style="text-align:right; font-style:italic;">Creado por: [Nombre del integrante]</p>
+</main>
