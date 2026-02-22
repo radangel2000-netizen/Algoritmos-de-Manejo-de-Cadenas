@@ -1,0 +1,20 @@
+<main>
+    <h1>Cadenas de caracteres como estructuras de datos</h1>
+    <p>Una <strong>cadena (string)</strong> es una secuencia finita de caracteres (letras, números, símbolos o espacios). En computación se representa internamente como un <strong>arreglo de caracteres</strong>.</p>
+    
+    <h2>Representación en memoria</h2>
+    <p>En lenguajes como C/C++ se almacena como un arreglo terminado en el carácter nulo <code>'\0'</code>. En Python y Java las cadenas son <strong>inmutables</strong> (no se pueden modificar una vez creadas).</p>
+    
+    <p>Ejemplo de almacenamiento en memoria:</p>
+    <pre>Cadena: "Hola"
+Memoria: ['H','o','l','a','\0']  ← terminador nulo (solo en C)</pre>
+    
+    <p><strong>Características principales:</strong></p>
+    <ul>
+        <li>Longitud variable o fija según el lenguaje</li>
+        <li>Acceso aleatorio por índice (O(1))</li>
+        <li>Inmutabilidad en la mayoría de lenguajes modernos</li>
+    </ul>
+    
+    <p style="text-align:right; font-style:italic;">Creado por: Luis Angel</p>
+</main>
