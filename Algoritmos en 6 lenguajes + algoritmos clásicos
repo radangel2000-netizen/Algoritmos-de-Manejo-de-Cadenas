@@ -1,0 +1,31 @@
+<main>
+    <h1>Principales algoritmos de manejo de cadenas en lenguajes de programación</h1>
+    
+    <h2>1. Python</h2>
+    <p>Cadenas inmutables (str). Usa internamente arreglos dinámicos. Métodos: <code>len(), +, find(), replace(), split(), join(), upper(), strip()</code></p>
+    
+    <h2>2. Java</h2>
+    <p><code>String</code> inmutable, <code>StringBuilder</code> mutable. Métodos: <code>length(), concat(), substring(), indexOf(), replace(), split()</code></p>
+    
+    <h2>3. C++</h2>
+    <p><code>std::string</code> (mutable). Operadores: <code>+, +=, []</code>. Métodos: <code>length(), substr(), find(), append(), replace()</code></p>
+    
+    <h2>4. JavaScript</h2>
+    <p>Primitivo inmutable. Métodos: <code>length, concat(), slice(), indexOf(), replace(), split(), toUpperCase(), trim()</code></p>
+    
+    <h2>5. C#</h2>
+    <p><code>string</code> inmutable, <code>StringBuilder</code> mutable. Métodos similares a Java.</p>
+    
+    <h2>6. PHP</h2>
+    <p>Cadenas tratadas como arrays de bytes. Funciones: <code>strlen(), substr(), strpos(), str_replace(), explode(), implode(), trim(), strtoupper()</code></p>
+    
+    <h2>Algoritmos clásicos de búsqueda de patrones</h2>
+    <ul>
+        <li><strong>Naive (fuerza bruta)</strong> – O(m·n)</li>
+        <li><strong>KMP (Knuth-Morris-Pratt)</strong> – O(m+n) con tabla de prefijos</li>
+        <li><strong>Boyer-Moore</strong> – muy rápido en texto largo</li>
+        <li><strong>Rabin-Karp</strong> – usa hashing</li>
+    </ul>
+    
+    <p style="text-align:right; font-style:italic;">Creado por: Luis Angel</p>
+</main>
