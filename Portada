@@ -1,0 +1,15 @@
+<main>
+    <h1 style="text-align:center;">Portal Web<br>Algoritmos de Manejo de Cadenas</h1>
+    <p style="text-align:center; font-size:1.2em;">Investigación colaborativa sobre Strings en Computación</p>
+    
+    <h2>Datos de los participantes</h2>
+    <ul>
+        <li><strong>Luis Angel</strong> – Investigación y página de Ejemplos</li>
+        <!-- Agrega aquí los demás miembros del grupo -->
+    </ul>
+    
+    <p style="text-align:center; margin-top:50px;">
+        <img src="https://via.placeholder.com/800x300/007bff/ffffff?text=CadenasMaster" alt="Logo" style="max-width:100%; border-radius:10px;">
+    </p>
+</main>
+
